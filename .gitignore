@@ -1,0 +1,6 @@
+lib/
+*.swp
+.DS_STORE
+*.db
+bin/
+**/*/__pycache__
